@@ -2,9 +2,11 @@
   background-color: #00509d;
   padding-left: 5%;
 }
+
 .color {
   background-color: #00509d;
 }
+
 main {
   background-color: #e5e5e5;
 }
@@ -23,7 +25,7 @@ a {
   text-decoration: none;
 }
 
-/* Card Styles */
+/* Estilo de card  */
 
 .card-sl {
   border-radius: 8px;
@@ -87,3 +89,4 @@ a {
 
 }
 
+/*Estilo card*/
